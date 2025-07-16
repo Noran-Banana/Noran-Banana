@@ -1,4 +1,2 @@
-# Noran_Banana
-My Github Profile
 # **Nah, i'd Banana**
-## 바나나를 어떻게 해야 먹을수 있는지에 대한 정말 교육적인 채널
+## 바나나를 어떻게 해야 먹을수 있는지에 대한 정말 교육적인 유저
